@@ -118,10 +118,10 @@
     <!-- 12 fotos -->
 
     <div class="foto">
-      <img src="https://via.placeholder.com/200x150/555/fff?text=Foto+1" alt="Gratis 1">
-      <button class="like" onclick="incrementar(0)">❤️ Me encanta</button>
-      <span class="contador" id="contador-0">0</span>
-    </div>
+  <img src="https://i.postimg.cc/qRGwLJVS/IMG-0232.jpg" alt="Gratis 1">
+  <button class="like" onclick="incrementar(0)">❤️ Me encanta</button>
+  <span class="contador" id="contador-0">0</span>
+</div>
     
 
     <div class="foto">
